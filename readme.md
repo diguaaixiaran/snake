@@ -1,10 +1,11 @@
 # 贪吃蛇小游戏
+![](https://img.huihuige.xyz/images/2021/12/22/ca2cecd904c2efad3e1c385dd0f309eb.jpg)
 
 ## 基础知识
 
 1、HTML、CSS及Javascript基础
 
-2、涉及DOM操作、本地存储等知识
+2、涉及DOM操作、本地存储、css3旋转等基础知识
 
 ## 功能概述
 
